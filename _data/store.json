@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "629f5f1ad512cefaff8a837a",
+    "user": "5d7a514b5d2c12c7449be042",
+    "name": "Toko Rahmad",
+    "yearProduction": 2005,
+    "province": "Jawa Barat",
+    "regency": "Kabupaten Bandung",
+    "photo": "http://niuniq.io/documents/images/stores/photo_629f5f1ad512cefaff8a837a.jpg",
+    "logo": "http://niuniq.io/documents/images/logos/logo_629f5f1ad512cefaff8a837a.png"
+  },
+  {
+    "_id": "629fa56fad0f0fc0920474ce",
+    "user": "5d7a514b5d2c12c7449be043",
+    "name": "Toko Berkah",
+    "yearProduction": 1990,
+    "province": "Jawa Barat",
+    "regency": "Kota Cimahi",
+    "photo": "http://niuniq.io/documents/images/stores/photo_629fa56fad0f0fc0920474ce.jpg",
+    "logo": "http://niuniq.io/documents/images/logos/logo_629fa56fad0f0fc0920474ce.png"
+  },
+  {
+    "_id": "62a04880b3428bbc42d4feb4",
+    "user": "5d7a514b5d2c12c7449be044",
+    "name": "Toko Batik",
+    "yearProduction": 1970,
+    "province": "Jawa Barat",
+    "regency": "Kabupaten Bandung",
+    "photo": "http://niuniq.io/documents/images/stores/photo_62a04880b3428bbc42d4feb4.jpg",
+    "logo": "http://niuniq.io/documents/images/logos/logo_62a04880b3428bbc42d4feb4.png"
+  },
+  {
+    "_id": "62a04881b3428bbc42d4feb6",
+    "user": "5d7a514b5d2c12c7449be045",
+    "name": "Toko Asep",
+    "province": "Jawa Barat",
+    "regency": "Kabupaten Bandung",
+    "yearProduction": 1998,
+    "photo": "http://niuniq.io/documents/images/stores/photo_62a04881b3428bbc42d4feb6.jpg",
+    "logo": "http://niuniq.io/documents/images/logos/logo_62a04881b3428bbc42d4feb6.png"
+  }
+]

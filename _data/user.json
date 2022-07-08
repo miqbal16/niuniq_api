@@ -1,0 +1,40 @@
+[ {
+    "_id": "5d7a514b5d2c12c7449be047",
+    "email": "admin@niuniq.com",
+    "noTelepon": "085316269505",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be042",
+    "email": "bob@gmail.com",
+    "noTelepon": "081211112222",
+    "password": "123456",
+    "hasCreatedMarket": true,
+    "role": "user"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be043",
+    "email": "jack@gmail.com",
+    "noTelepon": "082211112222",
+    "password": "123456",
+    "hasCreatedMarket": true,
+    "role": "user"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be044",
+    "email": "jenni@gmail.com",
+    "noTelepon": "083211112222",
+    "password": "123456",
+    "hasCreatedMarket": true,
+    "role": "user"
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be045",
+    "email": "george@gmail.com",
+    "noTelepon": "087211112222",
+    "password": "123456",
+    "hasCreatedMarket": true,
+    "role": "user"
+  }
+]
