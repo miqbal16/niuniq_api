@@ -6,8 +6,8 @@
     "yearProduction": 2005,
     "province": "Jawa Barat",
     "regency": "Kabupaten Bandung",
-    "photo": "http://niuniq.io/documents/images/stores/photo_629f5f1ad512cefaff8a837a.jpg",
-    "logo": "http://niuniq.io/documents/images/logos/logo_629f5f1ad512cefaff8a837a.png"
+    "photo": "https://niuniq.herokuapp.com/documents/images/stores/photo_629f5f1ad512cefaff8a837a.jpg",
+    "logo": "https://niuniq.herokuapp.com/documents/images/logos/logo_629f5f1ad512cefaff8a837a.png"
   },
   {
     "_id": "629fa56fad0f0fc0920474ce",
@@ -16,8 +16,8 @@
     "yearProduction": 1990,
     "province": "Jawa Barat",
     "regency": "Kota Cimahi",
-    "photo": "http://niuniq.io/documents/images/stores/photo_629fa56fad0f0fc0920474ce.jpg",
-    "logo": "http://niuniq.io/documents/images/logos/logo_629fa56fad0f0fc0920474ce.png"
+    "photo": "https://niuniq.herokuapp.com/documents/images/stores/photo_629fa56fad0f0fc0920474ce.jpg",
+    "logo": "https://niuniq.herokuapp.com/documents/images/logos/logo_629fa56fad0f0fc0920474ce.png"
   },
   {
     "_id": "62a04880b3428bbc42d4feb4",
@@ -26,8 +26,8 @@
     "yearProduction": 1970,
     "province": "Jawa Barat",
     "regency": "Kabupaten Bandung",
-    "photo": "http://niuniq.io/documents/images/stores/photo_62a04880b3428bbc42d4feb4.jpg",
-    "logo": "http://niuniq.io/documents/images/logos/logo_62a04880b3428bbc42d4feb4.png"
+    "photo": "https://niuniq.herokuapp.com/documents/images/stores/photo_62a04880b3428bbc42d4feb4.jpg",
+    "logo": "https://niuniq.herokuapp.com/documents/images/logos/logo_62a04880b3428bbc42d4feb4.png"
   },
   {
     "_id": "62a04881b3428bbc42d4feb6",
@@ -36,7 +36,7 @@
     "province": "Jawa Barat",
     "regency": "Kabupaten Bandung",
     "yearProduction": 1998,
-    "photo": "http://niuniq.io/documents/images/stores/photo_62a04881b3428bbc42d4feb6.jpg",
-    "logo": "http://niuniq.io/documents/images/logos/logo_62a04881b3428bbc42d4feb6.png"
+    "photo": "https://niuniq.herokuapp.com/documents/images/stores/photo_62a04881b3428bbc42d4feb6.jpg",
+    "logo": "https://niuniq.herokuapp.com/documents/images/logos/logo_62a04881b3428bbc42d4feb6.png"
   }
 ]

@@ -23,7 +23,7 @@ const productPhoto = fs.readFileSync(path.join('_data', 'images', 'product.png')
 const storePhoto = fs.readFileSync(path.join('_data', 'images', 'store.jpg'));
 const qrcodeImage = fs.readFileSync(path.join('_data', 'images', 'qrcode.png'));
 
-const hostName = 'http://niuniqapi.herokuapp.com/documents/images/';
+const hostName = 'https://niuniq.herokuapp.com/documents/images/';
 
 // Import Into DB
 const importData = async () => {
