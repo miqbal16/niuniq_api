@@ -4,7 +4,7 @@
   "description": "project tugas akhir",
   "main": "server",
   "scripts": {
-    "start": "NODE_ENV=production node server",
+    "start": "node server",
     "dev": "nodemon server",
     "lint": "eslint ./",
     "import": "node seeder -i",
